@@ -8,14 +8,13 @@
                 title="ROM"
                 description="Download Unofficial Resurrection Remix for Xperia Z (yuga)">https://drive.google.com/drive/folders/0BxscFwjJd-s2dFdPYmR0LWYxWlk</RomUrl>
             <ChangelogUrl
-                id="rrchangelog"
-                title="RR Changelog"
+                id="changelog"
+                title="Changelog"
                 description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
             <SlimGappsUrl
             	id="gapps"
             	title="Gapps"
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
         </yuga>
-        
     </Stable>
 </SlimOTA>
