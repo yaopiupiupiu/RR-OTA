@@ -7,14 +7,10 @@
                 id="rom"
                 title="ROM"
                 description="Download Unofficial Resurrection Remix for Xperia Z (yuga)">https://drive.google.com/drive/folders/0BxscFwjJd-s2dFdPYmR0LWYxWlk</RomUrl>
-            <RRChangelogUrl
+            <ChangelogUrl
                 id="rrchangelog"
                 title="RR Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</RRChangelogUrl>
-            <BChangelogUrl
-                id="buildchangelog"
-                title="Build Changelog"
-                description="View Build Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</BChangelogUrl>
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
             <SlimGappsUrl
             	id="gapps"
             	title="Gapps"
