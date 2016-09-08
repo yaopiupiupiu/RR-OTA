@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <yuga>
+            <Filename>ResurrectionRemix-M-v5.7.3.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download Resurrection Remix for Xperia Z (yuga)">https://drive.google.com</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+        </yuga>
+        
+    </Stable>
+</SlimOTA>
