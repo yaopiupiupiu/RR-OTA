@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <yuga>
-            <Filename>ResurrectionRemix-M-v5.7.3-20160910-yuga.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.3-20160909-yuga.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -16,5 +16,35 @@
             	title="Gapps"
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
         </yuga>
+        <P024>
+            <Filename>ResurrectionRemix-M-v5.7.3-20160909-P024.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download Unofficial Resurrection Remix for ZenPad 8.0 (P024)">https://drive.google.com/drive/folders/0BxscFwjJd-s2ZER6MXU3blRWdDg</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+        </P024>
+        <spyder>
+            <Filename>ResurrectionRemix-M-v5.7.3-20160909-spyder.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download Unofficial Resurrection Remix for Motorola RAZR (spyder)">https://drive.google.com/drive/folders/0BxscFwjJd-s2Tl9WN3VWQzhHSlk</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+        </spyder>
     </Stable>
 </SlimOTA>
