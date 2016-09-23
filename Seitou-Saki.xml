@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <yuga>
-            <Filename>ResurrectionRemix-M-v5.7.3-20160916-yuga.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.4-20160923-yuga.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -17,7 +17,7 @@
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
         </yuga>
         <P024>
-            <Filename>ResurrectionRemix-M-v5.7.3-20160916-P024.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.4-20160923-P024.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -32,7 +32,7 @@
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
         </P024>
         <spyder>
-            <Filename>ResurrectionRemix-M-v5.7.3-20160916-spyder.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.4-20160923-spyder.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
