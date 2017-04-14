@@ -1,4 +1,4 @@
-# RR-OTA
+# RR-OTA2
 
 自ビルドResurrection RemixのOTA  practice
 change222
