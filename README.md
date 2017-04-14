@@ -1,3 +1,3 @@
 # RR-OTA
 
-自ビルドResurrection RemixのOTA
+自ビルドResurrection RemixのOTA  practice
