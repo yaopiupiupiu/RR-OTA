@@ -1,4 +1,7 @@
 # RR-OTA
 
-自ビルドResurrection RemixのOTA
-test
+自ビルドResurrection RemixのOTA  
+
+practice
+
+
